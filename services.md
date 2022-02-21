@@ -9,4 +9,8 @@ intro_image_hide_on_mobile: true
 
 # Services that grow with your business
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+* Operations strategy: setting the corporate strategy and operational plans
+* Frontline leadership: creating high-performance teams within an inclusive culture
+* DNVB development: developing Digitally Native Vertical Brands in a green Industry 4.0
+* Frontend development: developing presentation layer experiences
+* Content strategy: creating and managing systems and teams for today’s content solutions
