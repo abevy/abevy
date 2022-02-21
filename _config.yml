@@ -33,10 +33,14 @@ url: https://juleeburdekin.com
 twitter_username: pequodcapt
 github_username:  theship
 
+# jekyll-paginate configuration
+paginate:            5
+
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+markdown:            kramdown
+highlighter:         rouge
+permalink:           /:title
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
