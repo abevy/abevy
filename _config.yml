@@ -28,7 +28,7 @@ email: julee@abevy.com
 # baseurl: "" # the subpath of your site, e.g. /blog
 domain: abevy.github.io
 url: https://abevy.com
-baseurl: ""
+baseurl: "/"
 relativeurls: true
 twitter_username: pequodcapt
 github_username:  theship

@@ -1,7 +1,7 @@
 ---
-title: Jekyll Serif Theme
+title: Abevy, Inc.
 layout: home
-description: From software and analysis to new-materials prototyping, our projects are based on real-life problems with community solutions.
+description: From software and analysis to hands-on new-materials prototyping, our projects are based on real-life problems with community solutions.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
