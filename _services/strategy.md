@@ -5,9 +5,7 @@ featured: true
 weight: 1
 ---
 
-We distill insights into compact, easy to understand language that inspires conceptual creative development.
-
-We translate your objectives into program design with support from senior strategists.
+Translate your objectives into program design with support from senior strategists. We distill insights into compact, easy to understand language that inspires conceptual creative development.
 
 ![Strategy Services](/images/illustrations/laptop.svg)
 
