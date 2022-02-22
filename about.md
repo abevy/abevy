@@ -1,6 +1,7 @@
 ---
 title: About
 layout: page
+permalink: "/about/"
 description: About
 bodyClass: page-about
 ---
