@@ -11,7 +11,7 @@ We translate your objectives into program design with support from senior strate
 
 ![Strategy Services](/images/illustrations/laptop.svg)
 
-# We're there to help 
+# We're here to help 
 
 * Identify opportunities
 * Develop program-level strategies and plans for initiatives

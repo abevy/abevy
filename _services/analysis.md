@@ -9,7 +9,7 @@ We synthesize research and analysis into insights to drive the creative discours
 
 ![Analysis Services](/images/illustrations/pixeltrue-data-analyse-1.svg)
 
-# We're there to help
+# We're here to help
 
 * Lead research and data collection activities across a broad range of industries and services
 * Develop quantitative and qualitative tools for data analysis and collection
