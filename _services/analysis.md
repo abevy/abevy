@@ -7,7 +7,7 @@ weight: 2
 
 We synthesize research and analysis into insights to drive the creative discourse.
 
-![Analysis Services](/images/illustrations/pixeltrue-working-in-a-laboratory-1.svg)
+![Analysis Services](/images/illustrations/pixeltrue-data-analyse-1.svg)
 
 # We're there to help
 
