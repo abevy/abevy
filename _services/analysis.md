@@ -7,7 +7,7 @@ weight: 2
 
 We synthesize research and analysis into insights to drive the creative discourse.
 
-![Analysis Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Analysis Services](/images/illustrations/pixeltrue-working-in-a-laboratory-1.svg)
 
 # We're there to help
 

@@ -9,7 +9,7 @@ We distill insights into compact, easy to understand language that inspires conc
 
 We translate your objectives into program design with support from senior strategists.
 
-![Strategy Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Strategy Services](/images/illustrations/laptop.svg)
 
 # We're there to help 
 

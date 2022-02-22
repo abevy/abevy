@@ -8,7 +8,7 @@ layout: service
 
 We're always honored that previous employees and protégés still seek us out. We coach and lead technical staff in adding strategic priorities, processes, and program management to their projects.
 
-![Execution Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Execution Services](/images/illustrations/fixing-robot.svg)
 
 # We're there to help
 
